@@ -27,3 +27,19 @@ change_log = pd.DataFrame({
 change_log.to_csv("change_log.csv", index=False)
 
 print("Change log created successfully!")
+
+## Task 2 – Exploratory Data Analysis
+
+- Loaded the cleaned Superstore dataset.
+- Generated summary statistics using describe().
+- Performed correlation analysis.
+- Created a correlation heatmap.
+- Analyzed Sales distribution.
+- Analyzed Profit distribution.
+- Compared Sales by Category.
+- Compared Profit by Category.
+- Analyzed monthly Sales trends.
+- Identified potential outliers using boxplots.
+- Analyzed the relationship between Discount and Profit.
+- Documented observations for each visualization.
+- Added Top 3 Insights based on the analysis.
