@@ -1,0 +1,29 @@
+import pandas as pd
+
+change_log = pd.DataFrame({
+    "Issue": [
+        "Missing Values",
+        "Invalid Discount",
+        "Invalid Quantity",
+        "Negative Sales",
+        "Data Types"
+    ],
+    "Result": [
+        "0 missing values",
+        "0 invalid values",
+        "0 invalid values",
+        "0 negative values",
+        "Correct"
+    ],
+    "Action Taken": [
+        "No action required",
+        "No action required",
+        "No action required",
+        "No action required",
+        "No conversion required"
+    ]
+})
+
+change_log.to_csv("change_log.csv", index=False)
+
+print("Change log created successfully!")
