@@ -1,0 +1,134 @@
+﻿Customer ID,Customer Name,Order ID,Order Date,Product Name,Category,Sales,Quantity
+C001,Aarav Sharma,ORD1003,2025-02-08,Mouse,Technology,2686.17,3
+C001,Aarav Sharma,ORD1005,2025-02-17,Notebook,Office Supplies,916.28,4
+C001,Aarav Sharma,ORD1005,2025-02-17,Desk Lamp,Furniture,8536.75,5
+C001,Aarav Sharma,ORD1005,2025-02-17,Bookshelf,Furniture,12864.66,2
+C001,Aarav Sharma,ORD1007,2025-03-02,Printer,Technology,32154.68,2
+C001,Aarav Sharma,ORD1006,2025-04-08,Stapler,Office Supplies,1009.05,3
+C001,Aarav Sharma,ORD1006,2025-04-08,Desk Lamp,Furniture,5036.43,3
+C001,Aarav Sharma,ORD1008,2025-04-23,Monitor,Technology,60009.35,5
+C001,Aarav Sharma,ORD1008,2025-04-23,Laptop,Technology,114285.16,2
+C001,Aarav Sharma,ORD1008,2025-04-23,USB Drive,Technology,3365.82,3
+C001,Aarav Sharma,ORD1010,2025-08-10,Mouse,Technology,3908.76,4
+C001,Aarav Sharma,ORD1009,2025-08-18,Headphones,Technology,6673.5,3
+C001,Aarav Sharma,ORD1002,2025-10-21,Laptop,Technology,215896.56,4
+C001,Aarav Sharma,ORD1004,2025-10-25,Desk,Furniture,23121.14,2
+C001,Aarav Sharma,ORD1004,2025-10-25,Monitor,Technology,36215.55,3
+C001,Aarav Sharma,ORD1001,2025-12-18,Printer,Technology,16116.39,1
+C002,Priya Patel,ORD1011,2025-03-03,Mouse,Technology,3488.24,4
+C002,Priya Patel,ORD1011,2025-03-03,Desk Lamp,Furniture,1946.45,1
+C002,Priya Patel,ORD1011,2025-03-03,Pen Set,Office Supplies,180.7,1
+C002,Priya Patel,ORD1018,2025-04-26,Printer,Technology,30330.14,2
+C002,Priya Patel,ORD1013,2025-05-31,Desk Lamp,Furniture,5586.06,3
+C002,Priya Patel,ORD1016,2025-06-04,Laptop,Technology,103832,2
+C002,Priya Patel,ORD1016,2025-06-04,Desk Lamp,Furniture,9361.4,5
+C002,Priya Patel,ORD1016,2025-06-04,Headphones,Technology,3980.94,2
+C002,Priya Patel,ORD1014,2025-07-25,Notebook,Office Supplies,266.79,1
+C002,Priya Patel,ORD1014,2025-07-25,Desk Lamp,Furniture,3324.64,2
+C002,Priya Patel,ORD1012,2025-08-12,Mouse,Technology,830.67,1
+C002,Priya Patel,ORD1015,2025-08-22,Office Chair,Furniture,44601.55,5
+C002,Priya Patel,ORD1015,2025-08-22,Laptop,Technology,53160.59,1
+C002,Priya Patel,ORD1015,2025-08-22,Keyboard,Technology,1964.23,1
+C002,Priya Patel,ORD1017,2025-12-08,Notebook,Office Supplies,491.9,2
+C002,Priya Patel,ORD1017,2025-12-08,Mouse,Technology,879.85,1
+C002,Priya Patel,ORD1017,2025-12-08,Printer,Technology,28438.82,2
+C003,Rahul Verma,ORD1023,2025-01-06,Stapler,Office Supplies,1792.85,5
+C003,Rahul Verma,ORD1023,2025-01-06,Notebook,Office Supplies,782.22,3
+C003,Rahul Verma,ORD1023,2025-01-06,Keyboard,Technology,3439.88,2
+C003,Rahul Verma,ORD1019,2025-03-13,Keyboard,Technology,1684.36,1
+C003,Rahul Verma,ORD1019,2025-03-13,Bookshelf,Furniture,20601.3,3
+C003,Rahul Verma,ORD1019,2025-03-13,USB Drive,Technology,1189.94,1
+C003,Rahul Verma,ORD1025,2025-04-16,Desk,Furniture,12197.43,1
+C003,Rahul Verma,ORD1025,2025-04-16,Stapler,Office Supplies,1110.81,3
+C003,Rahul Verma,ORD1025,2025-04-16,Pen Set,Office Supplies,655.2,4
+C003,Rahul Verma,ORD1020,2025-06-01,Office Chair,Furniture,40784.9,5
+C003,Rahul Verma,ORD1022,2025-08-25,Keyboard,Technology,8944.75,5
+C003,Rahul Verma,ORD1024,2025-11-08,Laptop,Technology,51824.45,1
+C003,Rahul Verma,ORD1021,2025-12-13,Keyboard,Technology,1936.27,1
+C003,Rahul Verma,ORD1021,2025-12-13,Laptop,Technology,172770.84,3
+C003,Rahul Verma,ORD1021,2025-12-13,Printer,Technology,44063.13,3
+C004,Sneha Joshi,ORD1030,2025-07-08,Desk Lamp,Furniture,1791.73,1
+C004,Sneha Joshi,ORD1028,2025-09-09,Monitor,Technology,23964.66,2
+C004,Sneha Joshi,ORD1028,2025-09-09,Desk Lamp,Furniture,5270.58,3
+C004,Sneha Joshi,ORD1031,2025-10-05,Printer,Technology,13919.18,1
+C004,Sneha Joshi,ORD1027,2025-10-15,Desk,Furniture,12721.62,1
+C004,Sneha Joshi,ORD1027,2025-10-15,Printer,Technology,55100.44,4
+C004,Sneha Joshi,ORD1029,2025-11-16,Office Chair,Furniture,18623.84,2
+C004,Sneha Joshi,ORD1026,2025-12-02,Headphones,Technology,10727.1,5
+C005,Vikram Singh,ORD1034,2025-02-12,Bookshelf,Furniture,13902.32,2
+C005,Vikram Singh,ORD1034,2025-02-12,Printer,Technology,29906.76,2
+C005,Vikram Singh,ORD1034,2025-02-12,Office Chair,Furniture,27299.28,3
+C005,Vikram Singh,ORD1037,2025-03-11,Printer,Technology,15200.37,1
+C005,Vikram Singh,ORD1035,2025-06-17,Headphones,Technology,11916.85,5
+C005,Vikram Singh,ORD1035,2025-06-17,Notebook,Office Supplies,262.33,1
+C005,Vikram Singh,ORD1035,2025-06-17,Mouse,Technology,905.23,1
+C005,Vikram Singh,ORD1032,2025-07-06,Notebook,Office Supplies,236.49,1
+C005,Vikram Singh,ORD1032,2025-07-06,Mouse,Technology,4454.05,5
+C005,Vikram Singh,ORD1036,2025-07-09,Monitor,Technology,65057.65,5
+C005,Vikram Singh,ORD1036,2025-07-09,Notebook,Office Supplies,1026.04,4
+C005,Vikram Singh,ORD1033,2025-07-20,Stapler,Office Supplies,1051.23,3
+C005,Vikram Singh,ORD1033,2025-07-20,Notebook,Office Supplies,768.09,3
+C006,Ananya Desai,ORD1040,2025-02-08,Laptop,Technology,54731.52,1
+C006,Ananya Desai,ORD1040,2025-02-08,Notebook,Office Supplies,1042.56,4
+C006,Ananya Desai,ORD1038,2025-02-09,Office Chair,Furniture,24201.45,3
+C006,Ananya Desai,ORD1042,2025-03-29,Bookshelf,Furniture,34885.55,5
+C006,Ananya Desai,ORD1042,2025-03-29,File Folder,Office Supplies,224.56,2
+C006,Ananya Desai,ORD1041,2025-09-18,File Folder,Office Supplies,255.42,2
+C006,Ananya Desai,ORD1041,2025-09-18,Keyboard,Technology,5402.52,3
+C006,Ananya Desai,ORD1041,2025-09-18,Headphones,Technology,9567.16,4
+C006,Ananya Desai,ORD1039,2025-12-05,Keyboard,Technology,5139.87,3
+C006,Ananya Desai,ORD1039,2025-12-05,Mouse,Technology,1729.52,2
+C007,Rohan Mehta,ORD1047,2025-03-07,Keyboard,Technology,9039.3,5
+C007,Rohan Mehta,ORD1047,2025-03-07,Mouse,Technology,965.65,1
+C007,Rohan Mehta,ORD1047,2025-03-07,Pen Set,Office Supplies,729,4
+C007,Rohan Mehta,ORD1043,2025-04-14,Keyboard,Technology,7057.44,4
+C007,Rohan Mehta,ORD1043,2025-04-14,Monitor,Technology,13378.61,1
+C007,Rohan Mehta,ORD1044,2025-06-06,Notebook,Office Supplies,522.1,2
+C007,Rohan Mehta,ORD1044,2025-06-06,Keyboard,Technology,3763.82,2
+C007,Rohan Mehta,ORD1044,2025-06-06,Desk Lamp,Furniture,3604.76,2
+C007,Rohan Mehta,ORD1046,2025-07-10,Mouse,Technology,2863.44,3
+C007,Rohan Mehta,ORD1046,2025-07-10,Laptop,Technology,105273.02,2
+C007,Rohan Mehta,ORD1045,2025-08-12,Keyboard,Technology,8540.65,5
+C007,Rohan Mehta,ORD1045,2025-08-12,Office Chair,Furniture,17205.78,2
+C008,Neha Kulkarni,ORD1048,2025-02-15,Monitor,Technology,49444.52,4
+C008,Neha Kulkarni,ORD1048,2025-02-15,Pen Set,Office Supplies,187.81,1
+C008,Neha Kulkarni,ORD1048,2025-02-15,File Folder,Office Supplies,255.92,2
+C008,Neha Kulkarni,ORD1049,2025-02-18,Stapler,Office Supplies,1837.35,5
+C008,Neha Kulkarni,ORD1049,2025-02-18,Pen Set,Office Supplies,503.1,3
+C008,Neha Kulkarni,ORD1050,2025-05-21,Keyboard,Technology,1818.26,1
+C008,Neha Kulkarni,ORD1051,2025-10-02,Bookshelf,Furniture,14117.42,2
+C008,Neha Kulkarni,ORD1051,2025-10-02,Desk,Furniture,24049.2,2
+C008,Neha Kulkarni,ORD1051,2025-10-02,Office Chair,Furniture,31201.24,4
+C009,Karan Shah,ORD1052,2025-01-13,Laptop,Technology,157174.08,3
+C009,Karan Shah,ORD1052,2025-01-13,Printer,Technology,49238.49,3
+C009,Karan Shah,ORD1054,2025-04-02,Monitor,Technology,13084.05,1
+C009,Karan Shah,ORD1053,2025-07-25,Headphones,Technology,2277.52,1
+C009,Karan Shah,ORD1053,2025-07-25,USB Drive,Technology,2979.15,3
+C009,Karan Shah,ORD1053,2025-07-25,File Folder,Office Supplies,628.85,5
+C009,Karan Shah,ORD1055,2025-08-04,Laptop,Technology,289055,5
+C010,Pooja Nair,ORD1057,2025-02-23,Monitor,Technology,64189.65,5
+C010,Pooja Nair,ORD1057,2025-02-23,Mouse,Technology,964.53,1
+C010,Pooja Nair,ORD1058,2025-04-06,Monitor,Technology,33753.39,3
+C010,Pooja Nair,ORD1058,2025-04-06,Mouse,Technology,986.37,1
+C010,Pooja Nair,ORD1058,2025-04-06,Headphones,Technology,9656.72,4
+C010,Pooja Nair,ORD1056,2025-07-19,Headphones,Technology,8084.28,4
+C010,Pooja Nair,ORD1056,2025-07-19,Notebook,Office Supplies,1079.12,4
+C010,Pooja Nair,ORD1056,2025-07-19,Desk Lamp,Furniture,8632.8,5
+C011,Aditya Rao,ORD1060,2025-01-28,USB Drive,Technology,1101.95,1
+C011,Aditya Rao,ORD1061,2025-09-27,Mouse,Technology,1695.72,2
+C011,Aditya Rao,ORD1061,2025-09-27,USB Drive,Technology,3053.46,3
+C011,Aditya Rao,ORD1059,2025-11-22,Desk,Furniture,58091.6,5
+C011,Aditya Rao,ORD1059,2025-11-22,File Folder,Office Supplies,605.2,5
+C011,Aditya Rao,ORD1059,2025-11-22,Printer,Technology,28911.16,2
+C012,Isha Gupta,ORD1062,2025-05-30,Mouse,Technology,4917.95,5
+C012,Isha Gupta,ORD1063,2025-06-05,Monitor,Technology,11547.55,1
+C012,Isha Gupta,ORD1063,2025-06-05,USB Drive,Technology,1199.04,1
+C013,Manish Kumar,ORD1064,2025-03-21,Desk Lamp,Furniture,5892.09,3
+C013,Manish Kumar,ORD1064,2025-03-21,Office Chair,Furniture,8092.69,1
+C013,Manish Kumar,ORD1064,2025-03-21,Printer,Technology,14837.31,1
+C013,Manish Kumar,ORD1065,2025-06-13,Stapler,Office Supplies,1479.12,4
+C013,Manish Kumar,ORD1065,2025-06-13,Bookshelf,Furniture,6335.27,1
+C014,Kavya Iyer,ORD1066,2025-01-18,Laptop,Technology,294170.7,5
+C014,Kavya Iyer,ORD1067,2025-08-04,Bookshelf,Furniture,19256.58,3
+C014,Kavya Iyer,ORD1067,2025-08-04,Pen Set,Office Supplies,772.6,4
+C015,Sahil Patil,ORD1068,2025-02-06,Headphones,Technology,9260,4
