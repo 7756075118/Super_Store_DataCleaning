@@ -1,0 +1,46 @@
+Order Date,Order ID,Region,State,Customer Name,Category,Sub-Category,Product Name,Quantity,Unit Price,Sales,Profit
+2025-01-01,ORD-10082,West,California,Manish Yadav,Furniture,Tables,Conference Table,1,472.94,472.94,12.43
+2025-01-01,ORD-10188,West,Nevada,Karan Agarwal,Furniture,Furnishings,Desk Lamp,3,673.31,2019.93,193.79
+2025-01-02,ORD-10300,West,California,Pooja Gupta,Furniture,Chairs,Folding Chair,7,107.91,755.37,111.14
+2025-01-04,ORD-10049,South,North Carolina,Pooja Gupta,Office Supplies,Binders,Ring Binder,4,179.87,719.48,171.27
+2025-01-04,ORD-10387,Central,Ohio,Arjun Rao,Office Supplies,Storage,Storage Box,4,133.32,533.28,30.67
+2025-01-04,ORD-10126,East,New Jersey,Kavya Nair,Office Supplies,Binders,File Binder,5,15.33,76.65,17.85
+2025-01-05,ORD-10535,South,Georgia,Siddharth Jain,Office Supplies,Paper,Notebook Paper,2,20.13,40.26,9.98
+2025-01-05,ORD-10194,Central,Ohio,Meera Iyer,Technology,Phones,Budget Phone,7,1704.74,11933.18,2227.32
+2025-01-05,ORD-10216,South,Georgia,Sneha Desai,Furniture,Furnishings,Whiteboard,2,624.91,1249.82,116.35
+2025-01-06,ORD-10588,South,North Carolina,Meera Iyer,Technology,Laptops,Business Laptop,5,371.55,1857.75,111.83
+2025-01-07,ORD-10225,South,Florida,Isha Kulkarni,Technology,Phones,Budget Phone,2,344.52,689.04,65.27
+2025-01-07,ORD-10060,East,New York,Vikram Joshi,Technology,Phones,Business Phone,3,1294.74,3884.22,257.41
+2025-01-07,ORD-10567,East,New York,Meera Iyer,Office Supplies,Paper,Notebook Paper,2,86.12,172.24,26.71
+2025-01-07,ORD-10162,West,Oregon,Ananya Patel,Office Supplies,Storage,File Cabinet,3,83.23,249.69,12.54
+2025-01-08,ORD-10303,West,Oregon,Simran Kaur,Furniture,Furnishings,Whiteboard,4,439.41,1757.64,131.0
+2025-01-10,ORD-10104,West,Oregon,Simran Kaur,Office Supplies,Binders,Presentation Binder,5,42.08,210.4,46.14
+2025-01-11,ORD-10525,West,California,Pooja Gupta,Office Supplies,Storage,File Cabinet,1,77.13,77.13,17.25
+2025-01-12,ORD-10285,Central,Ohio,Siddharth Jain,Technology,Phones,Budget Phone,5,1772.67,8863.35,1627.17
+2025-01-12,ORD-10219,West,Nevada,Neha Kapoor,Office Supplies,Art Supplies,Drawing Kit,6,78.05,468.3,60.81
+2025-01-13,ORD-10482,West,Oregon,Karan Agarwal,Furniture,Chairs,Office Chair,1,170.76,170.76,13.01
+2025-01-13,ORD-10485,South,Florida,Karan Agarwal,Furniture,Tables,Conference Table,5,619.98,3099.9,84.54
+2025-01-13,ORD-10038,South,Florida,Riya Malhotra,Technology,Tablets,Android Tablet,4,1197.94,4791.76,912.32
+2025-01-14,ORD-10459,Central,Minnesota,Pooja Gupta,Furniture,Tables,Computer Table,7,782.73,5479.11,920.53
+2025-01-14,ORD-10185,South,Georgia,Rohan Mehta,Furniture,Tables,Computer Table,6,600.83,3604.98,302.27
+2025-01-14,ORD-10184,East,New Jersey,Manish Yadav,Technology,Phones,Business Phone,5,831.92,4159.6,289.0
+2025-01-17,ORD-10366,Central,Ohio,Nikhil Patil,Technology,Laptops,Business Laptop,2,1537.17,3074.34,347.49
+2025-01-17,ORD-10275,East,New Jersey,Riya Malhotra,Technology,Laptops,Business Laptop,2,365.13,730.26,174.63
+2025-01-17,ORD-10406,East,New Jersey,Karan Agarwal,Furniture,Furnishings,Whiteboard,1,674.58,674.58,59.12
+2025-01-19,ORD-10512,Central,Michigan,Riya Malhotra,Technology,Accessories,Keyboard,3,690.03,2070.09,331.49
+2025-01-20,ORD-10258,West,Oregon,Simran Kaur,Office Supplies,Paper,Notebook Paper,3,28.81,86.43,14.35
+2025-01-22,ORD-10161,East,Pennsylvania,Rohan Mehta,Technology,Laptops,Gaming Laptop,7,1746.47,12225.29,2444.21
+2025-01-22,ORD-10547,East,Massachusetts,Sneha Desai,Office Supplies,Art Supplies,Markers,1,252.88,252.88,43.72
+2025-01-23,ORD-10341,West,Washington,Rohan Mehta,Technology,Tablets,Windows Tablet,7,193.54,1354.78,162.25
+2025-01-25,ORD-10228,Central,Minnesota,Sneha Desai,Technology,Tablets,Android Tablet,7,950.56,6653.92,917.59
+2025-01-25,ORD-10578,Central,Illinois,Nikhil Patil,Technology,Accessories,Headset,6,363.16,2178.96,289.86
+2025-01-25,ORD-10436,East,Pennsylvania,Nikhil Patil,Office Supplies,Art Supplies,Markers,5,248.2,1241.0,271.36
+2025-01-26,ORD-10093,Central,Illinois,Simran Kaur,Office Supplies,Binders,Presentation Binder,6,216.18,1297.08,116.61
+2025-01-26,ORD-10209,West,Oregon,Vikram Joshi,Furniture,Tables,Office Table,5,819.07,4095.35,446.65
+2025-01-27,ORD-10532,Central,Minnesota,Vikram Joshi,Furniture,Chairs,Executive Chair,7,350.52,2453.64,315.91
+2025-01-28,ORD-10592,Central,Minnesota,Neha Kapoor,Office Supplies,Paper,Copy Paper,2,268.14,536.28,96.77
+2025-01-29,ORD-10238,West,Washington,Neha Kapoor,Office Supplies,Art Supplies,Markers,4,194.79,779.16,141.71
+2025-01-29,ORD-10444,Central,Michigan,Rohan Mehta,Office Supplies,Storage,Drawer Unit,5,56.02,280.1,28.47
+2025-01-31,ORD-10472,Central,Michigan,Rohan Mehta,Furniture,Furnishings,Whiteboard,5,451.51,2257.55,154.82
+2025-02-03,ORD-10290,West,Oregon,Pooja Gupta,Furniture,Tables,Computer Table,1,414.53,414.53,57.24
+2025-02-03,ORD-10079,East,New York,Riya Malhotra,Technology,Laptops,Ultrabook,3,493.05,1479.15,96.4

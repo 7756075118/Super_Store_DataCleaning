@@ -1,0 +1,17 @@
+Issue Type,Column,Issue Count,Description
+Missing Values,Order ID,0,0 missing values found in Order ID
+Missing Values,Order Date,0,0 missing values found in Order Date
+Missing Values,Product Name,0,0 missing values found in Product Name
+Missing Values,Category,0,0 missing values found in Category
+Missing Values,Sales,0,0 missing values found in Sales
+Missing Values,Profit,0,0 missing values found in Profit
+Missing Values,Quantity,0,0 missing values found in Quantity
+Duplicate Records,All Columns,0,Completely duplicated rows
+Range Error,Sales,0,Sales values below 0
+Range Error,Quantity,0,Quantity values must be greater than 0
+Invalid Date,Order Date,0,Invalid or unparseable dates
+Date Range Error,Order Date,0,Order dates occurring in the future
+Consistency Error,Category,0,Category values outside expected categories
+Blank Values,Order ID,0,Blank string values in Order ID
+Blank Values,Product Name,0,Blank string values in Product Name
+Blank Values,Category,0,Blank string values in Category
